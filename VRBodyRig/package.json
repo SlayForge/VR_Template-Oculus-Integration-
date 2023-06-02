@@ -10,7 +10,8 @@
     "com.unity.xr.interaction.toolkit": "2.1.1",
     "com.unity.xr.openxr": "1.6.0",
     "com.unity.animation.rigging": "1.2.1",
-    "com.unity.inputsystem": "1.2.1"
+    "com.readyplayerme.avatarloader": "1.2.0",
+    "com.readyplayerme.core": "1.2.0"
   },
   "author": {
     "name": "Harout Boyajian"
